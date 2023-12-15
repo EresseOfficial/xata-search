@@ -44,3 +44,9 @@ dist.css
 .env
 .xata/
 .xatarc
+# Sentry Config File
+.sentryclirc
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
